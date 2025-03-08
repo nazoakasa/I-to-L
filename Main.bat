@@ -10,4 +10,5 @@ pause
 color 3a
 pause
 color f7
+pause
 GOTO restart
